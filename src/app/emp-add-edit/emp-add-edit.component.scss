@@ -1,0 +1,23 @@
+.button-spacer {
+    color: #ff0000;
+  }
+
+.row {
+    display: flex;
+    gap: 10px;
+
+    mat-form-field{
+        width: 100%;
+    }
+}
+
+.content {
+    padding-top: 10px;
+}
+
+.action {
+bottom: 50px;
+    button{
+        flex: 1;
+    }
+}
