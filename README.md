@@ -26,6 +26,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+## To Run the Mock Server
+
+json-server --watch db.json
+
 ## Screens
 
 ![Screenshot from 2023-09-03 23-33-22](https://github.com/John-Gilbert-2023/AngularErrorHandle-TestDevelopment/assets/143480566/93ee78fc-2938-46fd-833a-9d8cc9a064ca)
